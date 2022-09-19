@@ -16,5 +16,5 @@
 -- vim.g.background="light"
 -- vim.cmd("colorscheme melange")
 
--- vim.g.background="dark"
--- vim.cmd("colorscheme gruvbox")
+vim.g.background="dark"
+vim.cmd("colorscheme gruvbox")
